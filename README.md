@@ -3,6 +3,6 @@
 - 🌱 I’m love AI 
 - 💞️ I’m looking to collaborate on ...
 - 📫  I often share small snippets of my code
-- 😄 Pronouns: happy every time
+- 😄 Pronouns: Happy every time
 - Hello, I'm Bao, welcome to my page.
 - Here, I often share small snippets of my code, hoping that they can be helpful to everyone. I wish all the best to you.
