@@ -6,3 +6,5 @@
 - 😄 Pronouns: Happy every time
 - Hello, I'm Bao, welcome to my page.
 - Here, I often share small snippets of my code, hoping that they can be helpful to everyone. I wish all the best to you.
+
+![Example Image](https://www.pinterest.com/pin/11751649021582433/)
