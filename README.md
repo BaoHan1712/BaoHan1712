@@ -10,6 +10,7 @@
 - 💡 I enjoy solving complex problems and turning ideas into reality
 - 🎯 My goal is to make a positive impact through technology
 - 🌍 Let's connect and build something amazing together
+  
 - Hello, I'm Bao, welcome to my page.
 - Here, I often share small snippets of my code, hoping that they can be helpful to everyone. I wish all the best to you.
 - ✨ Stay curious, stay inspired, and keep coding!
