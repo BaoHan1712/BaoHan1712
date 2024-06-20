@@ -98,9 +98,6 @@
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
     <img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png" alt="wordpress" width="40" height="40"/>
   </a>
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png" alt="wordpress" width="40" height="40"/>
-  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BaoHan1712&show_icons=true&locale=en&layout=compact" alt="BaoHan1712" /></p>
