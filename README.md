@@ -54,6 +54,9 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
+  <a href="https://keras.io/api/applications/#usage-examples-for-image-classification-models" target="_blank" rel="noreferrer">
+    <img src="https://tse3.mm.bing.net/th?id=OIP.PEfi7H9OrglFQi5o8UDIigAAAA&pid=Api&P=0&h=180" alt="scikit_learn" width="40" height="40"/>
+  </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
@@ -93,7 +96,7 @@
   </a>
   <!-- CMS -->
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png" alt="wordpress" width="40" height="40"/>
+    <img src="https://pngimg.com/uploads/wordpress/wordpress_PNG47.png" alt="wordpress" width="40" height="40"/>
   </a>
 </p>
 
