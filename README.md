@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BaoHan1712
-- 👀 I’m interested in code
+- 👋 Hi, I'm @BaoHan1712
+- 👀 I'm interested in code
 - 🌱 I love AI
-- 🔭 I’m currently working on AI and machine learning projects
+- 🔭 I'm currently working on AI and machine learning projects
 - 🌟 Passionate about open-source and contributing to the developer community
 - 🧠 Always eager to learn new technologies and improve my skills
 - 💡 I enjoy solving complex problems and turning ideas into reality
@@ -102,6 +102,12 @@
   <!-- CMS -->
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
     <img src="https://pngimg.com/uploads/wordpress/wordpress_PNG47.png" alt="wordpress" width="40" height="40"/>
+  </a>
+  <a href="https://langchain.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlB0a2to_HXGbIrKO0LMVpfNHer4VmscAmyQ&s" alt="langchain" width="40" height="40"/>
+  </a>
+  <a href="https://www.keil.com/stm32/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Keil_logo.svg/1200px-Keil_logo.svg.png" alt="stm32" width="40" height="40"/>
   </a>
 </p>
 
