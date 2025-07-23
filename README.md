@@ -55,8 +55,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
   <a href="https://keras.io/api/applications/#usage-examples-for-image-classification-models" target="_blank" rel="noreferrer">
-    <img src="[https://tse3.mm.bing.net/th?id=OIP.PEfi7H9OrglFQi5o8UDIigAAAA&pid=Api&P=0&h=180](https://www.google.com/imgres?q=keras&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fae%2FKeras_logo.svg%2F1200px-Keras_logo.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FKeras&docid=KNeptpWAKUw8rM&tbnid=vvZYFI1h4TOLsM&vet=12ahUKEwiDqtHIuNKOAxU1bPUHHeTtH9QQM3oECBsQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwiDqtHIuNKOAxU1bPUHHeTtH9QQM3oECBsQAA)" alt="keras" width="40" height="40"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras logo" width="40" height="40"/>
+</a>
+
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
