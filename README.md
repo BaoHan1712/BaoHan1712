@@ -81,7 +81,7 @@
 <a href="https://numpy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/></a>
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/></a>
-<a href="https://langchain.readthedocs.io/" target="_blank"> <img src="[https://deepfa.ir/img/blogs/hRkuEWmBxt.webp](https://theaiinsider.tech/wp-content/uploads/2025/07/Screenshot-3112.png)" alt="langchain" width="40" height="40"/></a>
+<a href="https://langchain.readthedocs.io/" target="_blank"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/langchain-color.png" alt="langchain" width="40" height="40"/></a>
 
 <br/>**Hardware & Embedded Systems**<br/>
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
